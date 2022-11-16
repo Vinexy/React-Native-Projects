@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980426877704",
+    "firebase_url": "https://talkcode-87865-default-rtdb.firebaseio.com",
+    "project_id": "talkcode-87865",
+    "storage_bucket": "talkcode-87865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980426877704:android:644fed20c5a8b92e385abd",
+        "android_client_info": {
+          "package_name": "com.codetalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980426877704-e34l20lgeg13ik2vvil142qfhubr5pbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI8Vdbr_8XHhSE_mb35mbExyhYVR6nWv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980426877704-e34l20lgeg13ik2vvil142qfhubr5pbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

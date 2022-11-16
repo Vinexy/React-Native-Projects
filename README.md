@@ -41,3 +41,26 @@
         - @react-native-render-html
         - Axios()
         - useState()
+### 5-) Code Talks App
+    Used Technologies:
+        - StyleSheet
+        - useDispatch()
+        - React navigation
+        - Props
+        - useSelector()
+        - FontAwesome Icons
+        - useState()
+        - Firebase 
+        - auth()
+        - @react-native-modal
+        - useEffect()
+        - signInWithEmailAndPassword()
+        - Alert.alert()
+        - <Formik />
+        - secureTextEntry
+        - Object.keys()
+        - .sort()
+        - .map()
+        - .split()
+        
+
