@@ -1,4 +1,4 @@
-### 1-) E-Store App
+### 1-) E-Store App 
     Used Technologies:
         - .json data file
         - StyleSheet
