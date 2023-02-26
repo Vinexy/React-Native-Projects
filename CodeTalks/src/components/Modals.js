@@ -22,6 +22,8 @@ const Modals = ({placeholderTexty, visible, onClose, onSend}) => {
       isVisible={visible}>
       <View style={styles.container}>
         <TextInput
+          placeholderTextColor={"black"}
+          style={styles.textInput}
           multiline
           placeholder={placeholderTexty}
           onChangeText={setText}
@@ -67,4 +69,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: 'white',
   },
+  textInput: {
+    color: "black",
+  }
 });
