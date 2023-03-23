@@ -1,3 +1,5 @@
+![findJob](https://user-images.githubusercontent.com/85889196/227112059-ddd76b92-2634-47bc-aeb6-c6a7748dcd35.gif)
+
 ![image](https://user-images.githubusercontent.com/85889196/198790614-1432a58e-7df3-40e3-913e-cda8a2536b06.png)
 
 ![image](https://user-images.githubusercontent.com/85889196/198791527-fac47df8-7b25-43ee-ac26-a716912ef0ea.png)
