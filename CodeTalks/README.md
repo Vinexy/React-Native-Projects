@@ -1,3 +1,6 @@
+![codeTalks](https://user-images.githubusercontent.com/85889196/227106987-af9f9613-2a67-4a47-bb85-5b84b0455240.gif)
+
+
 ![image](https://user-images.githubusercontent.com/85889196/202063079-e31d6e3b-537a-4414-a342-1733a7e8e6eb.png)
 
 
